@@ -1,0 +1,132 @@
+Requerimientos SMART
+	Specific
+	Measurable
+	Achievable
+	Relevant
+	Time bounded
+	
+Especifico
+	Algo concreto y bien definido
+	Sin ambiguedades
+	
+Medible
+	Criterios de aceptacion, cuanto cuesta?, cuanto demora?
+	
+Alcanzable
+	Realista, es posible alcancarlo?
+	
+Relevante
+	Vale la pena? es el momento adecuado?
+	
+Limite de tiempo / trasabilidad
+	Establecer objetivos dentro de un marco de tiempo 
+	
+	
+PARA LA PROXIMA CLASE :::::>>>>>   Pautas para una entrevista efectiva   <<<<<:::::
+
+
+
+BLASTOFF
+	No es una reunion, requiere investigacion previa, necesidades, interesados.
+	cuando todo eso termina es que se hace el kick-off
+	
+ENTREGABLES
+	propositos
+	
+	glosario
+	rechos relevantes y suposiciones
+	riesgos
+	go/no go decision
+	
+Se desprenden:
+	requisitos de alto nivel
+	premisas y restricciones
+	descipcion de alto nivel del proyecto y sus limites
+	riesgos de alto nivel
+	resumen del cronograma de hitos
+	Interesados:
+		- gerente de proyecto asignado
+		- nombre y nivel de autoridad de patrocinador.
+		
+Consiguiendo los reqs.
+	una vez definido el marco de trabajo, los analistas comienzan aprender y entender los procesos del negocio y que quieren lograr.
+	
+	caso de uso de negocio (BUC)
+
+Modelado rapido y escenarios.
+	dibujar flujos de pantallas y bocetos
+	
+Escribiendo los reqs.
+	partes claves:
+		Racionalidad
+		criterios de aceptacion
+	No es escribirlos porque si, sino porque realmente son utiles
+	
+Probando los reqs.
+	Se hace con el jefe de testing y con alguien que estuvo en el proyecto.
+	
+Reutilizando requisitos.
+	rever trabajos anteriores y ver si los relevamientos siguen siendo validos para utilizar.
+	
+Retrospectiva.
+	que se hizo bien?
+	que se hizo mal?
+	Que cambiariamos, si lo hicieramos nuevamente?
+	
+Evolucionand reqs.
+	-fases posteriores
+	-solicitudes de cambio.
+		tipos:
+				correccion, bugs
+				adaptacion, modificar por cambios externos
+				mejora, ampliar reqs. funcionaes originales
+				prevencion, cambio para facilitar el cambio
+
+Templates.
+	el Snow Card.
+	tarjeta de reqs.
+	
+	
+ALCANCE - AGENDA
+	
+	
+INTERESADOS
+	CLAVE:
+		sponsor
+		customers
+		users
+	OTROS:
+		Equipo
+		Consultores / expertos
+		managment
+		inspectores
+		marketing
+		legales
+		negativos, gente que no quiere que suceda el proyecto.
+		sistemas adyacentes
+
+RESTRICCIONES
+	favorecen a la limitacion y focalizacion del trabajo.
+	- de la solucion:
+	
+	- del proyecto	Alcance
+					tiempo
+					costo
+
+COSTO
+	Puntos de fucion?
+	juicio experto?
+	EDT + juicio experto?
+	
+	
+	
+
+Tarea DOMICILIARIA 
+	TA5
+	PRESENTACION
+	UT7
+	CUADRANTES DE INTERESES
+
+
+					
+		

@@ -1,0 +1,22 @@
+Requerimientos SMART
+	Specific
+	Measurable
+	Achievable
+	Relevant
+	Time bounded
+	
+Especifico
+	Algo concreto y bien definido
+	Sin ambiguedades
+	
+Medible
+	Criterios de aceptacion, cuanto cuesta?, cuanto demora?
+	
+Alcanzable
+	Realista, es posible alcancarlo?
+	
+Relevante
+	Vale la pena? es el momento adecuado?
+	
+Limite de tiempo / trasabilidad
+	Establecer objetivos dentro de un marco de tiempo 
