@@ -1,0 +1,18 @@
+
+Contexto:
+	centrarse en solucion correcta, y no la tecnologica.
+
+Pensamiento Sistemico:
+	como nuestro producto afecta AL RESTO, o consume datos de este.
+	un objetivo es ENCONTRAR LOS PUNTOS de FALLA del sistema.
+	
+Valor:
+	Cuantificar que que costo beneficio hay en lo que estoy haciendo.
+	3 componentes:
+		Recompensa
+		Penalización
+		Costo
+	
+Desafiando los límites
+
+

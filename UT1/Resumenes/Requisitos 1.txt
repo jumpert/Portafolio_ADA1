@@ -129,4 +129,22 @@ Tarea DOMICILIARIA
 
 
 					
-		
+ESCENARIOS (CASOS DE USO)
+	Herramienta muy efectiva por su graficidad, al presentarse al interesado.
+	
+ESCENCIA
+DIAGRAMAS
+	Se pueden adjuntar los diagramas para hacer más entendible el problema.
+PASOS MAS COMPLEJOS
+	se pueden poner casos de uso, que se incluyan para complementar los ya definidos
+ALTERNATIVAS
+	son cosas que se incluyen al caso de uso feliz
+EXCEPCIONES
+	Casos que se busca que vuelvan al flujo principal o que terminen.
+WHAT IF?
+	Casos de uso, que surge del "que pasa si?" y se arma un brainstorming
+MAL USO/ ESCENARUI NEGATIVO
+	Aquellos eventos que se originan a traves de la intencionalidad del involucrado
+	
+PLANTILLA 
+	Sirve para gestionar los procesos que requieren para 
