@@ -1,4 +1,4 @@
-# Unidad Temática 1 - Proceso y elicitacion de requerimientos.
+# Unidad Temática 1 - Proceso y elicitación de requerimientos.
 
 En esta unidad se abordarán los siguientes temas:
 Cualidades de un buen analista.
