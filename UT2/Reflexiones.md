@@ -49,6 +49,6 @@ La verificación de requerimientos es el proceso de comprobar que los requerimie
 
 ## Referencias
 
-* [Plantilla volere](https://www.volere.com.mx/plantilla-volere/)
+* [Plantilla volere](https://www.volere.org/wp-content/uploads/2018/12/template_es.pdf)
 * [Análisis de requerimientos](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_requerimientos)
-* [Requerimientos funcionales y no-funcionales](Mastering the Requirements Process: Getting Requirements Right) 
+* Requerimientos funcionales y no-funcionales, Mastering the Requirements Process: Getting Requirements Right 
