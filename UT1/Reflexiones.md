@@ -83,3 +83,13 @@ El centro de esta materia es darnos las pautas para poder realizar un buen anál
 Con esto se pretende que nosotros podamos realizar un buen análisis de requerimientos y así poder realizar un buen diseño de software, evitando así que se presenten errores en el desarrollo del software.
 
 Como reflexión final, sobre la entrevista realizada al ayudante de la catedra, nos hizo sentir en primera persona como se siente un analista de requerimientos, ya que nos hizo sentir que estabamos en una situacion real, y que teniamos que realizar un buen análisis de requerimientos. 
+
+## Comentarios
+* El contenido de la unidad es muy bueno, ya que nos da las pautas para poder realizar un buen análisis de requerimientos.
+* La entrevista realizada al ayudante de la catedra nos hizo sentir en primera persona como se siente un analista de requerimientos, ya que nos hizo sentir que estabamos en una situacion real, y que teniamos que realizar un buen análisis de requerimientos.
+* Los ejercicios realizados en clase nos ayudaron a comprender mejor el contenido de la unidad.
+* La unidad es muy importante, ya que nos da las pautas para poder realizar un buen análisis de requerimientos.
+* La dificultad de las tareas es la adecuada, ya que nos ayudan a comprender mejor el contenido de la unidad.
+* En particular el equipo de trabajo no tuvo dificultades para realizar las tareas.
+* El equipo de trabajo es lo suficientemente responsable para realizar las tareas. Sobretodo para realizar las tareas en el tiempo establecido e incluso fuera del tiempo de clase.
+
