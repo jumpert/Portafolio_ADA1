@@ -52,3 +52,19 @@ La verificación de requerimientos es el proceso de comprobar que los requerimie
 * [Plantilla volere](https://www.volere.org/wp-content/uploads/2018/12/template_es.pdf)
 * [Análisis de requerimientos](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_requerimientos)
 * Requerimientos funcionales y no-funcionales, Mastering the Requirements Process: Getting Requirements Right 
+
+# Reflexion final de Unidad Temática 2
+
+## ¿Qué aprendí?
+
+En esta unidad aprendi a identificar los requerimientos funcionales y no funcionales de un sistema de software, a desarrollar capacidades de análisis de requerimientos, a describir los requerimientos de forma apropiada a una audiencia de partes interesadas y a verificar y validar requerimientos funcionales y no-funcionales usando técnicas estándar.
+La utilización de herramientas como la plantilla volere, la snowcard entre otras vistas en el curso, me permitieron identificar los requerimientos funcionales y no funcionales de un sistema de software, desarrollar capacidades de análisis de requerimientos y describir los requerimientos de forma apropiada a una audiencia de partes interesadas.
+
+## ¿Qué fue lo que más me costo trabajo hacer?
+
+La utilización de procesos de verificación y validación diferentes a los que ya conocía, fue lo que más me costo trabajo hacer. Porque en algunas ocasiones no sabía como aplicarlos correctamente, por la falta de experiencia y la complejidad de los mismos.
+
+## ¿Qué podría haber hecho mejor?
+
+Dedicar más tiempo a la realización de las actividades de la unidad, referentes a la implementación de los procesos de verificación y validación de requerimientos.
+
