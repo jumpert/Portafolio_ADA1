@@ -60,3 +60,26 @@ El diagrama de componentes es un diagrama de UML que permite especificar los com
 * Interfaces, que son los elementos que describen las interfaces de los componentes de un sistema de software.
 * Relaciones, que son las relaciones que se establecen entre los componentes de un sistema de software.
 
+### Diagrama de despliegue
+
+El diagrama de despliegue es un diagrama de UML que permite especificar los nodos de un sistema de software. El diagrama de despliegue se compone de 3 elementos:
+
+* Nodos, que son los elementos que describen los nodos de un sistema de software.
+* Artefactos, que son los elementos que describen los artefactos de un sistema de software.
+* Relaciones, que son las relaciones que se establecen entre los nodos de un sistema de software.
+
+## ¿Que conocimientos me deja esta unidad?
+
+Sobre todo el conocimiento de las herramientas de diseño de software, que son muy importantes para el desarrollo de software. Así como también el conocimiento de los diagramas de UML, que nos permiten especificar, visualizar, construir y documentar los artefactos de un sistema de software.
+En particular me deja el conocimiento de los diagramas de casos de uso, de clases, de actividades, de secuencia y de despliegue, que son los más importantes, a la hora de conocer para nuestro futuro como ingenieros en sistemas. 
+
+## ¿Que es lo que más me ha costado esta unidad?
+
+Lo que más me ha costado de esta unidad es el aprendizaje de los diagramas de UML, ya que son muchos y cada uno tiene sus propias características, por lo que es un poco difícil aprenderlos todos. Pero con la práctica y el estudio se puede lograr.
+
+## ¿Que me ha parecido el desarrollo de la unidad?
+
+Me deja la satisfacción de poder realizar los ejercicio después de conocer el tema, lo que permite afianzar los conocimientos adquiridos. La disponibilidad de la información en la web, permite que el aprendizaje sea más fácil y rápido.
+
+
+
