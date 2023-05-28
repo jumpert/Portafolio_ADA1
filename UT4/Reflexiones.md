@@ -8,6 +8,7 @@
 ## Aproximación a la interfaz de usuario
 
 En esta unidad temática se abordó el tema de la interfaz de usuario, la cual es la parte de un programa que interactúa con el usuario. Se puede decir que es la parte del programa que se ve y con la que se interactúa. La interfaz de usuario es la parte del programa que se encarga de recibir las entradas del usuario y mostrarle los resultados de sus acciones.
+
 Inicialmente comenzamos haciendo la técnica mobile first, la cual consiste en diseñar primero la interfaz para dispositivos móviles y luego ir adaptando el diseño para pantallas más grandes. Esto se hace porque es más fácil adaptar un diseño pequeño a uno más grande que al revés. Además, la mayoría de los usuarios de internet acceden a la red desde dispositivos móviles, por lo que es importante que la interfaz de usuario esté optimizada para estos dispositivos.
 
 ## Heurísticas de usabilidad
@@ -55,4 +56,7 @@ En comparación ambas heurísticas son muy similares, pero la de Nielsen es más
 ## Desarrollo de las Clases
 
 En particular me gusto que en esta unidad temática se nos enseñó a utilizar una herramienta para el desarrollo de interfaces de usuario, la cual es [Figma](https://www.figma.com/). Esta herramienta es muy útil para el desarrollo de interfaces de usuario, ya que permite crear prototipos de interfaces de usuario de forma rápida y sencilla. Además, permite trabajar en equipo, ya que permite que varias personas trabajen en el mismo proyecto al mismo tiempo. También permite crear componentes, los cuales son elementos que se pueden reutilizar en el proyecto, lo que permite ahorrar tiempo y esfuerzo. Por último, permite crear prototipos interactivos, los cuales permiten simular el funcionamiento de la interfaz de usuario.
+
+![image](https://github.com/jumpert/Portafolio_ADA1/assets/88668277/77249136-3d7c-4299-adb6-7676fb0f460e)
+
 Es una buena forma de ver lo que diseñamos en papel o en el pizarrón, creando así una UI más realista con un prototipo interactivo, el cual nos permite ver cómo se vería nuestra interfaz de usuario en un dispositivo móvil o en una computadora.
