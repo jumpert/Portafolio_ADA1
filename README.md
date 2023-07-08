@@ -25,12 +25,18 @@
   - [:open_file_folder: Materiales](./UT4/Materiales)
   - [:open_file_folder: Resumenes](./UT4/Resumenes)
   - [:page_facing_up: Reflexiones](./UT4/Reflexiones.md)
-<!--
-### :card_index_dividers: [**Unidad Temática 5 - **](./UT5)
+
+  ### :card_index_dividers: [**Unidad Temática 5 - Implementando Patrones de Diseño**](./UT5)
   - [:open_file_folder: Ejercicios](./UT5/Ejercicios)
   - [:open_file_folder: Materiales](./UT5/Materiales)
   - [:open_file_folder: Resumenes](./UT5/Resumenes)
   - [:page_facing_up: Reflexiones](./UT5/Reflexiones.md)
+<!--
+### :card_index_dividers: [**Unidad Temática 6 - **](./UT6)
+  - [:open_file_folder: Ejercicios](./UT6/Ejercicios)
+  - [:open_file_folder: Materiales](./UT6/Materiales)
+  - [:open_file_folder: Resumenes](./UT6/Resumenes)
+  - [:page_facing_up: Reflexiones](./UT6/Reflexiones.md)
 
 ### :round_pushpin: [Parciales](./Parciales)
   - [1er Parcial Equipo](./Parciales)
